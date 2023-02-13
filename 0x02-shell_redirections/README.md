@@ -8,3 +8,4 @@ Display the content of /etc/passwd and /etc/hosts
 6.displays the third line of the file iacta
 7.Create new file
 writes into the file ls_cwd_content the result of the command ls -la
+9-duplicate_last_line
