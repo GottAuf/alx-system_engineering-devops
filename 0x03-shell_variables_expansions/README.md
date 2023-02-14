@@ -6,3 +6,4 @@ Shell variables and expansions
 4-global_variables: display environment variables
 5-local_variables: display local variables
 6-create_local_variable
+7-create_global_variable
