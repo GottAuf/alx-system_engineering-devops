@@ -19,3 +19,4 @@ writes into the file ls_cwd_content the result of the command ls -la
 17-hidethisword
 18-letteronly
 translete Ac to Ze
+20 remove c and C from input
