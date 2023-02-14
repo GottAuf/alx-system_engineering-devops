@@ -8,3 +8,4 @@ Shell variables and expansions
 6-create_local_variable
 7-create_global_variable
 8-true_knowledge: 128 to $TRUEKNOWLEDGE
+9-divide_and_rule: Display Power over divide
