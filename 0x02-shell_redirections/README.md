@@ -23,3 +23,4 @@ translete Ac to Ze
 21 Reverse input
 2-users_and_homes
 100 find empty files and folders
+101 display .gif files
