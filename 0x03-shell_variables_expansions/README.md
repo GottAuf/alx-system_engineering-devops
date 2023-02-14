@@ -5,3 +5,4 @@ Shell variables and expansions
 3-paths: counts directories in PATH
 4-global_variables: display environment variables
 5-local_variables: display local variables
+6-create_local_variable
