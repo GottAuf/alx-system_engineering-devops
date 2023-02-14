@@ -21,3 +21,4 @@ writes into the file ls_cwd_content the result of the command ls -la
 translete Ac to Ze
 20 remove c and C from input
 21 Reverse input
+2-users_and_homes
