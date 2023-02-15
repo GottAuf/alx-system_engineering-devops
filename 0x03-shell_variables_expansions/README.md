@@ -11,3 +11,4 @@ Shell variables and expansions
 9-divide_and_rule: Display Power over divide
 10-love_exponent_breath: Breath to the power of love
 11-binary_to_decimal
+12-combinations : Print all possible 2 letter combinations except oo
