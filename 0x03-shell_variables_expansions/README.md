@@ -12,3 +12,4 @@ Shell variables and expansions
 10-love_exponent_breath: Breath to the power of love
 11-binary_to_decimal
 12-combinations : Print all possible 2 letter combinations except oo
+13-print_float: prints to 2 decimal places
