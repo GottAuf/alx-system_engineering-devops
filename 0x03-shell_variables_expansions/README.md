@@ -10,3 +10,4 @@ Shell variables and expansions
 8-true_knowledge: 128 to $TRUEKNOWLEDGE
 9-divide_and_rule: Display Power over divide
 10-love_exponent_breath: Breath to the power of love
+11-binary_to_decimal
